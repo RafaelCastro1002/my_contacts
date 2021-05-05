@@ -12,7 +12,7 @@ class ContactsService {
       ContactsModel('Terry Crews', '+55 88 99982-9999', 7),
       ContactsModel('Mr. Perfect', '+55 88 99633-9280', 8),
       ContactsModel('The Rock', '+55 88 98279-5928', 9),
-      ContactsModel('mark zuckerberg', '+55 88 99982-9999', 10),
+      ContactsModel('Mark Zuckerberg', '+55 88 99982-9999', 10),
     ];
   }
 }
