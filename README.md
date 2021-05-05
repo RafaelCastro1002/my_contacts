@@ -1,16 +1,8 @@
-# my_contacts
+Project to put into practice knowledge acquired in Flutter. With basic structure of Flutter creation, with MVC structure. Layout was created according to own mockup.
 
-A new Flutter project.
+Here are images of the result so far:
 
-## Getting Started
+![Captura de tela de 2021-05-05 10-00-21](https://user-images.githubusercontent.com/38334753/117161515-f8bd0d80-ad8f-11eb-957b-dc6ace6b293b.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Final result compared to the mockup:
+![Captura de tela de 2021-05-05 09-59-33](https://user-images.githubusercontent.com/38334753/117161540-fd81c180-ad8f-11eb-9b80-8108f3b607c9.png)
