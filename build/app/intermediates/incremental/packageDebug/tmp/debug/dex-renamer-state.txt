@@ -1,0 +1,4 @@
+#Tue May 04 18:34:22 AMT 2021
+base.0=/home/rafaelcastro/workspace/estudo-flutter/my_contacts/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
